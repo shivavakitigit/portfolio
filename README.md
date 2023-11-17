@@ -13,7 +13,6 @@ Crafting Connections through Code: Explore my journey, projects, and passions in
       <br/>
       <a href="https://michaelSiva Kumar.co.uk">View Live Website</a>
       
-    </p>
   </div>
   
   <!-- TABLE OF CONTENTS -->
@@ -44,12 +43,7 @@ Crafting Connections through Code: Explore my journey, projects, and passions in
   <!-- ABOUT THE PROJECT -->
   
   ## About The Project
-  
-  ### Photos
 
-[![My React Portfolio Screen Shot][product-screenshot3]](https://michaelSiva Kumar.co.uk)
-
-  <p align="right"><a href="#readme-top">back to top</a></p>
   
   ### Built With
   
