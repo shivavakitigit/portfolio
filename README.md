@@ -2,10 +2,7 @@
 
   <br />
   <div align="center">
-   
-    <h1 align="center">Siva Kumar</h1>
-    <p align="center">
-    <br/>
+  
 Crafting Connections through Code: Explore my journey, projects, and passions in this immersive portfolio powered by React.<br/>
       <br/>
       Built by: Siva Kumar
